@@ -1,0 +1,12 @@
+[submodule "stream-client"]
+	path = stream-client
+	url = git@github.com:Alphadevs/ISSLive-Stream-Client.git
+[submodule "rest-api"]
+	path = rest-api
+	url = git@github.com:Alphadevs/ISSLive-REST-API.git
+[submodule "limit-notification-engine"]
+	path = limit-notification-engine
+	url = git@github.com:Alphadevs/ISSLive-Limit-Notification-Engine.git
+[submodule "limit-notification-webapp"]
+	path = limit-notification-webapp
+	url = git@github.com:Alphadevs/ISSLive-Notification-System-Webapp.git
